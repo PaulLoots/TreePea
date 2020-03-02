@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="GrowMeClass.MainPage"
+             BackgroundColor="#E5E5E5">
+
+    <StackLayout>
+     
+        <StackLayout VerticalOptions="CenterAndExpand">
+            <Button Text="Jared"
+                    HorizontalOptions="Center"
+                    VerticalOptions="CenterAndExpand"
+                    FontAttributes="Bold"
+                    FontSize="18"
+                    TextColor="#5A854D"
+                    BackgroundColor="Transparent"
+                    Clicked="EditNameTapped"
+                    x:Name="plantNameButton" />
+            <Label Text="Level 1"
+                   HorizontalOptions="Center"
+                   VerticalOptions="CenterAndExpand"
+                   TextColor="#333333"
+                   FontAttributes="Bold"
+                   FontSize="30"
+                   x:Name="levelLabel"/>
+            <Label HorizontalOptions="Center" 
+                   VerticalOptions="CenterAndExpand"
+                   x:Name="xpLabel">1000px</Label>
+           
+        </StackLayout>
+        <Image x:Name="plantImage" VerticalOptions="CenterAndExpand" Source="plant_healthy_2"/>
+        <ImageButton VerticalOptions="CenterAndExpand" 
+                     HorizontalOptions="Center" 
+                     Source="water_button" 
+                     HeightRequest="60"
+                     WidthRequest="60" 
+                     Padding="8" 
+                     CornerRadius="10" 
+                     BackgroundColor="White"
+                     x:Name="waterButton"
+                     Clicked="waterButton_Clicked"/>
+    </StackLayout>
+
+
+</ContentPage>

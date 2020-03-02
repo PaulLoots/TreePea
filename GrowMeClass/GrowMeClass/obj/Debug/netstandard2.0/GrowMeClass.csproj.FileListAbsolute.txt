@@ -1,0 +1,14 @@
+C:\Users\Armand Pretorius\source\repos\GrowMeClass\GrowMeClass\GrowMeClass\bin\Debug\netstandard2.0\GrowMeClass.deps.json
+C:\Users\Armand Pretorius\source\repos\GrowMeClass\GrowMeClass\GrowMeClass\bin\Debug\netstandard2.0\GrowMeClass.dll
+C:\Users\Armand Pretorius\source\repos\GrowMeClass\GrowMeClass\GrowMeClass\bin\Debug\netstandard2.0\ref\GrowMeClass.dll
+C:\Users\Armand Pretorius\source\repos\GrowMeClass\GrowMeClass\GrowMeClass\bin\Debug\netstandard2.0\GrowMeClass.pdb
+C:\Users\Armand Pretorius\source\repos\GrowMeClass\GrowMeClass\GrowMeClass\obj\Debug\netstandard2.0\GrowMeClass.csprojAssemblyReference.cache
+C:\Users\Armand Pretorius\source\repos\GrowMeClass\GrowMeClass\GrowMeClass\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Armand Pretorius\source\repos\GrowMeClass\GrowMeClass\GrowMeClass\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Armand Pretorius\source\repos\GrowMeClass\GrowMeClass\GrowMeClass\obj\Debug\netstandard2.0\GrowMeClass.AssemblyInfoInputs.cache
+C:\Users\Armand Pretorius\source\repos\GrowMeClass\GrowMeClass\GrowMeClass\obj\Debug\netstandard2.0\GrowMeClass.AssemblyInfo.cs
+C:\Users\Armand Pretorius\source\repos\GrowMeClass\GrowMeClass\GrowMeClass\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Armand Pretorius\source\repos\GrowMeClass\GrowMeClass\GrowMeClass\obj\Debug\netstandard2.0\GrowMeClass.dll
+C:\Users\Armand Pretorius\source\repos\GrowMeClass\GrowMeClass\GrowMeClass\obj\Debug\netstandard2.0\ref\GrowMeClass.dll
+C:\Users\Armand Pretorius\source\repos\GrowMeClass\GrowMeClass\GrowMeClass\obj\Debug\netstandard2.0\GrowMeClass.pdb
+C:\Users\Armand Pretorius\source\repos\GrowMeClass\GrowMeClass\GrowMeClass\obj\Debug\netstandard2.0\RenamePlant.xaml.g.cs
