@@ -72,8 +72,8 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Armand Pretorius** - *Initial work* - [PaulLoots](https://github.com/PaulLoots)
-* **Paul Loots** - *Initial work* - [ArmandPretorius](https://github.com/ArmandPretorius)
+* **Armand Pretorius** - *Front End & Unit Testing* - [PaulLoots](https://github.com/PaulLoots)
+* **Paul Loots** - *Code Behind* - [ArmandPretorius](https://github.com/ArmandPretorius)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
