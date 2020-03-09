@@ -22,24 +22,25 @@ git clone https:://github.com/PaulLoots/WorkHeart.git
 Use `Open Workspace` in Visual Studio.
 
 
-## Running the tests
+## Unit Tests
 
-Explain how to run the automated tests for this system
+These are the unit tests that can be run on this system
 
-### Break down into end to end tests
+### GetLevelFromXpTest
 
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
+This test checks if the correct level is selected based on the Xp level. Navigate to Test Explorer and run unit tests.
 
 ```
-Give an example
+//ARRANGE
+int xp = 1500;
+int expectedLevel = 1;
+
+//ACT
+var result = Level.GetLevelFromXp(xp);
+
+
+//ASSERT
+Assert.AreEqual(expectedLevel, result);
 ```
 
 <!-- USAGE EXAMPLES -->
