@@ -1,36 +1,26 @@
-# Project Title
+# 🌱 Tree Pea
 
-One Paragraph of project description goes here
+This is a demo project which aims to showcase the cross-platform features of C# and Xamarin forms.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+For development, the latest version of Visual Studio is required. The latest version can be downloaded from [here](https://visualstudio.microsoft.com/downloads/).
 
-```
-Give examples
-```
-
+<!--A step by step series of examples that tell you how to get a development env running-->
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
+1. Clone the repo
+```sh
+git clone https:://github.com/PaulLoots/WorkHeart.git
 ```
-Give the example
-```
+2. Open the project
 
-And repeat
+Use `Open Workspace` in Visual Studio.
 
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
@@ -52,23 +42,26 @@ Explain what these tests test and why
 Give an example
 ```
 
-## Deployment
+<!-- USAGE EXAMPLES -->
+## Features
 
-Add additional notes about how to deploy this on a live system
+### Selecting Tracking Items
+
+![image1](image1)
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Xamarin Forms](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/)
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 ## Authors
 
