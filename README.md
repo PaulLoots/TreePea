@@ -66,8 +66,8 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Authors
 
-* **Armand Pretorius** - *Front End & Unit Testing* - [PaulLoots](https://github.com/PaulLoots)
-* **Paul Loots** - *Code Behind* - [ArmandPretorius](https://github.com/ArmandPretorius)
+* **Armand Pretorius** - *Front End & Unit Testing* - [ArmandPretorius](https://github.com/ArmandPretorius)
+* **Paul Loots** - *Code Behind* - [PaulLoots](https://github.com/PaulLoots)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
