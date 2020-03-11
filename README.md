@@ -43,13 +43,6 @@ var result = Level.GetLevelFromXp(xp);
 Assert.AreEqual(expectedLevel, result);
 ```
 
-<!-- USAGE EXAMPLES -->
-## Features
-
-### Selecting Tracking Items
-
-![image1](image1)
-
 ## Built With
 
 * [Xamarin Forms](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/)
