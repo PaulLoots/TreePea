@@ -4,6 +4,7 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
+              xmlns:components="clr-namespace:GrowMeClass.Components;assembly=GrowMeClass"
              x:Class="GrowMeClass.MainPage"
              BackgroundColor="#E5E5E5">
 
@@ -29,7 +30,13 @@
             <Label HorizontalOptions="Center" 
                    VerticalOptions="CenterAndExpand"
                    x:Name="xpLabel">1000px</Label>
-           
+            <components:DragAndDropSample3ReceivingView
+                AbsoluteLayout.LayoutFlags="All"
+                AbsoluteLayout.LayoutBounds=".1,.1,.2,.3"
+                BackgroundColor="Beige"
+                x:Name="droppable"
+                />
+
         </StackLayout>
         <Image x:Name="plantImage" VerticalOptions="CenterAndExpand" Source="plant_healthy_2"/>
         <ImageButton VerticalOptions="CenterAndExpand" 
@@ -42,6 +49,12 @@
                      BackgroundColor="White"
                      x:Name="waterButton"
                      Clicked="waterButton_Clicked"/>
+        <components:DragAndDropSample3MovingView
+                AbsoluteLayout.LayoutFlags="All"
+                AbsoluteLayout.LayoutBounds=".1,.9,.2,.3"
+                BackgroundColor="#0B6623">
+            <Label Text="Magic" TextColor="White"/>
+        </components:DragAndDropSample3MovingView>
     </StackLayout>
 
 

@@ -77,5 +77,11 @@ namespace GrowMeClass.Objects
         {
             Xp = Xp + 500;
         }
+
+        public void givePower()
+        {
+            Xp = Xp + 2000;
+        }
+
     }
 }

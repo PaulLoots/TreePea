@@ -5,6 +5,7 @@ public class MonoPackageManager_Resources {
 		"GrowMeClass.Android.dll",
 		"FormsViewGroup.dll",
 		"GrowMeClass.dll",
+		"Plugin.InputKit.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",
 		"Xamarin.Android.Arch.Core.Runtime.dll",
 		"Xamarin.Android.Arch.Lifecycle.Common.dll",

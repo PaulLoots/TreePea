@@ -132,6 +132,12 @@ namespace GrowMeClass
                 plant.CurrentPlantState = newPlantState;
                 UpdateUI();
             }
+
+            if (droppable.BackgroundColor == Color.FromHex("#0B6623"))
+            {
+                UpdateUI();
+                ResetTimer();
+            }
         }
     }
 }
